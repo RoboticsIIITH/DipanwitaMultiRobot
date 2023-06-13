@@ -5,7 +5,7 @@ Repository containing code for the paper "Fast Multi-Robot Trajectory Optimizati
 ### Instructions to run
 
 ```
-git clone https://github.com/susiejojo/multiagent_distributed
+git clone https://github.com/susiejojo/multiagent_distributed.git
 cd multiagent_distributed
 python main.py
 ```
